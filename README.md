@@ -1,0 +1,1 @@
+A program designed to give you a daily motivational quote from Arnell Milhouse.
