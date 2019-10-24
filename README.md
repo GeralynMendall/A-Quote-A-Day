@@ -1,1 +1,1 @@
-A program designed to give you a daily motivational quote from Arnell Milhouse.
+An app designed to give you a daily motivational quote from Arnell Milhouse.
